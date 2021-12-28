@@ -1,1 +1,3 @@
 # mars
+
+- one-liner initializer.
